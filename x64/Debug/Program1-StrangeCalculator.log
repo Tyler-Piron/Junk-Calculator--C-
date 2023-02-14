@@ -1,0 +1,7 @@
+﻿  Program1-StrangeCalculator.cpp
+C:\Users\tyler\source\repos\Assignments\CSCE_306_Labs\Program1-StrangeCalculator\Program1-StrangeCalculator.cpp(320,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tyler\source\repos\Assignments\CSCE_306_Labs\Program1-StrangeCalculator\Program1-StrangeCalculator.cpp(331,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tyler\source\repos\Assignments\CSCE_306_Labs\Program1-StrangeCalculator\Program1-StrangeCalculator.cpp(746,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tyler\source\repos\Assignments\CSCE_306_Labs\Program1-StrangeCalculator\Program1-StrangeCalculator.cpp(804,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tyler\source\repos\Assignments\CSCE_306_Labs\Program1-StrangeCalculator\Program1-StrangeCalculator.cpp(109): warning C4715: 'functionSelector': not all control paths return a value
+  Program1-StrangeCalculator.vcxproj -> C:\Users\tyler\source\repos\Assignments\CSCE_306_Labs\x64\Debug\Program1-StrangeCalculator.exe
